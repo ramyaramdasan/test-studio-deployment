@@ -11,15 +11,15 @@
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>INRRMP</sys_created_by>
-        <sys_created_on>2021-01-05 04:14:59</sys_created_on>
-        <sys_id>7a6879091b21e0903a2beb186e4bcb25</sys_id>
+        <sys_created_on>2021-01-05 06:29:08</sys_created_on>
+        <sys_id>6f179a0d1be1e0903a2beb186e4bcbf4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_rdsp2_test_studi_test_studio_functionality</sys_name>
         <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
-        <sys_update_name>ua_table_licensing_config_7a6879091b21e0903a2beb186e4bcb25</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_6f179a0d1be1e0903a2beb186e4bcbf4</sys_update_name>
         <sys_updated_by>INRRMP</sys_updated_by>
-        <sys_updated_on>2021-01-05 04:14:59</sys_updated_on>
+        <sys_updated_on>2021-01-05 06:29:08</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
