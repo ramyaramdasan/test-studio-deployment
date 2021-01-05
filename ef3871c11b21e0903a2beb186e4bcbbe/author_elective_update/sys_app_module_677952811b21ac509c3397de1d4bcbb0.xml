@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Test Afnan">dec852411b21ac509c3397de1d4bcb99</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test Afnans</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_rdsp2_test_studi_test_afnan</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_rdsp2_test_studi.test_afnan_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>INATEF</sys_created_by>
+        <sys_created_on>2021-01-05 06:39:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>677952811b21ac509c3397de1d4bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Afnans</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_update_name>sys_app_module_677952811b21ac509c3397de1d4bcbb0</sys_update_name>
+        <sys_updated_by>INATEF</sys_updated_by>
+        <sys_updated_on>2021-01-05 06:39:29</sys_updated_on>
+        <timeline_page/>
+        <title>Test Afnans</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</application>
+        <file_path/>
+        <instance_id>5668b40bdb18eb041ddcf22ebf9619fc</instance_id>
+        <instance_name>shelldev2</instance_name>
+        <name>sys_app_module_677952811b21ac509c3397de1d4bcbb0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test Afnan">dec852411b21ac509c3397de1d4bcb99</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Test Afnans</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_rdsp2_test_studi_test_afnan</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_rdsp2_test_studi.test_afnan_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>INATEF</sys_created_by><sys_created_on>2021-01-05 06:39:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>677952811b21ac509c3397de1d4bcbb0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Afnans</sys_name><sys_overrides/><sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package><sys_policy/><sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope><sys_update_name>sys_app_module_677952811b21ac509c3397de1d4bcbb0</sys_update_name><sys_updated_by>INATEF</sys_updated_by><sys_updated_on>2021-01-05 06:39:29</sys_updated_on><timeline_page/><title>Test Afnans</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>828638622</payload_hash>
+        <record_name>Test Afnans</record_name>
+        <reverted_from/>
+        <source>bba816cd1bed6c509c3397de1d4bcba2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INATEF</sys_created_by>
+        <sys_created_on>2021-01-05 06:39:29</sys_created_on>
+        <sys_id>a3795a811b21ac509c3397de1d4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176d1459faf0000001</sys_recorded_at>
+        <sys_updated_by>INATEF</sys_updated_by>
+        <sys_updated_on>2021-01-05 06:39:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ab795a819121ac50ccad3205857838f4</update_guid>
+        <update_guid_history>ab795a819121ac50ccad3205857838f4:828638622</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test Afnans">2c4c5b09dbada490485854904b961939</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:31:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>276d059388c14b908f5bb457e4d34229</sys_id>
+        <sys_metadata>677952811b21ac509c3397de1d4bcbb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Afnans</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_scope_delete display_value="">69a5cb27c0844524b67dfffa2b1954e9</sys_scope_delete>
+        <sys_update_name>sys_app_module_677952811b21ac509c3397de1d4bcbb0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_677952811b21ac509c3397de1d4bcbb0">a3795a811b21ac509c3397de1d4bcbf5</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:31:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
