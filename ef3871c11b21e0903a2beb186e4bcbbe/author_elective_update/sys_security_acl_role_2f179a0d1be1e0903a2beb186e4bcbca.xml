@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 06:29:07</sys_created_on>
+        <sys_id>2f179a0d1be1e0903a2beb186e4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_rdsp2_test_studi_test_studio_functionality.x_rdsp2_test_studi.test_studio_functionality_user</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_security_acl display_value="x_rdsp2_test_studi_test_studio_functionality">d3179a0d1be1e0903a2beb186e4bcbc7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2f179a0d1be1e0903a2beb186e4bcbca</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 06:29:07</sys_updated_on>
+        <sys_user_role display_value="x_rdsp2_test_studi.test_studio_functionality_user" name="x_rdsp2_test_studi.test_studio_functionality_user">9b175a0d1be1e0903a2beb186e4bcb6d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</application>
+        <file_path/>
+        <instance_id>5668b40bdb18eb041ddcf22ebf9619fc</instance_id>
+        <instance_name>shelldev2</instance_name>
+        <name>sys_security_acl_role_2f179a0d1be1e0903a2beb186e4bcbca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-05 06:29:07</sys_created_on><sys_id>2f179a0d1be1e0903a2beb186e4bcbca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_rdsp2_test_studi_test_studio_functionality.x_rdsp2_test_studi.test_studio_functionality_user</sys_name><sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package><sys_policy/><sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope><sys_security_acl display_value="x_rdsp2_test_studi_test_studio_functionality">d3179a0d1be1e0903a2beb186e4bcbc7</sys_security_acl><sys_update_name>sys_security_acl_role_2f179a0d1be1e0903a2beb186e4bcbca</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-05 06:29:07</sys_updated_on><sys_user_role display_value="x_rdsp2_test_studi.test_studio_functionality_user" name="x_rdsp2_test_studi.test_studio_functionality_user">9b175a0d1be1e0903a2beb186e4bcb6d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-208682718</payload_hash>
+        <record_name>x_rdsp2_test_studi_test_studio_functionality.x_rdsp2_test_studi.test_studio_functionality_user</record_name>
+        <reverted_from/>
+        <source>fba875c51b21e0903a2beb186e4bcba9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 06:29:07</sys_created_on>
+        <sys_id>a7179a0d1be1e0903a2beb186e4bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176d13c1fef0000001</sys_recorded_at>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 06:29:07</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>af179a0de1e1e09001a4ad83bacbb2cc</update_guid>
+        <update_guid_history>af179a0de1e1e09001a4ad83bacbb2cc:-208682718</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_rdsp2_test_studi_test_studio_functionality.x_rdsp2_test_studi.test_studio_func">ae555709db6da490485854904b9619a2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:01:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>948f7ea603b64e5cb37c58051b8a53a4</sys_id>
+        <sys_metadata>2f179a0d1be1e0903a2beb186e4bcbca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_rdsp2_test_studi_test_studio_functionality.x_rdsp2_test_studi.test_studio_functionality_user</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_parent display_value="">d3179a0d1be1e0903a2beb186e4bcbc7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_scope_delete display_value="">69a5cb27c0844524b67dfffa2b1954e9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2f179a0d1be1e0903a2beb186e4bcbca</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2f179a0d1be1e0903a2beb186e4bcbca">a7179a0d1be1e0903a2beb186e4bcbcd</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:01:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

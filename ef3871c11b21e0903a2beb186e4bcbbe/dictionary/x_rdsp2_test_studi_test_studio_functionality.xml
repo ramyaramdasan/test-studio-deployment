@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Test Studio Functionality" max_length="40" name="x_rdsp2_test_studi_test_studio_functionality" sizeclass="0" type="collection"/>
+    <element extends="task" label="Test Studio Functionality" max_length="40" name="x_rdsp2_test_studi_test_studio_functionality" type="collection">
+        <element label="Test Studio Feature" max_length="128" name="test_studio_feature" type="string"/>
+    </element>
 </database>

@@ -14,16 +14,16 @@
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
         <sys_created_by>INRRMP</sys_created_by>
-        <sys_created_on>2021-01-05 06:29:07</sys_created_on>
-        <sys_id>a7179a0d1be1e0903a2beb186e4bcbe8</sys_id>
+        <sys_created_on>2021-01-05 11:02:20</sys_created_on>
+        <sys_id>b1a55f09db6da490485854904b961927</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Test Studio Functionality</sys_name>
         <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
-        <sys_update_name>sys_wizard_answer_a7179a0d1be1e0903a2beb186e4bcbe8</sys_update_name>
+        <sys_update_name>sys_wizard_answer_b1a55f09db6da490485854904b961927</sys_update_name>
         <sys_updated_by>INRRMP</sys_updated_by>
-        <sys_updated_on>2021-01-05 06:29:07</sys_updated_on>
+        <sys_updated_on>2021-01-05 11:02:20</sys_updated_on>
         <table/>
         <target_url>x_rdsp2_test_studi_test_studio_functionality.do</target_url>
         <type>1</type>
