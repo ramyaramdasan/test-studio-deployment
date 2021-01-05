@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Studio Feature" max_length="40" name="x_rdsp2_test_studi_test_studio_feature" type="collection"/>
+</database>

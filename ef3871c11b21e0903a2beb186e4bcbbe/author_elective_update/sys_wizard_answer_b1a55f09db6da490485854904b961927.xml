@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Test Studio Functionality</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Test Studio Functionality</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">410b9487db130010e2601aaf299619af</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:02:20</sys_created_on>
+        <sys_id>b1a55f09db6da490485854904b961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Studio Functionality</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_update_name>sys_wizard_answer_b1a55f09db6da490485854904b961927</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:02:20</sys_updated_on>
+        <table/>
+        <target_url>x_rdsp2_test_studi_test_studio_functionality.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</application>
+        <file_path/>
+        <instance_id>5668b40bdb18eb041ddcf22ebf9619fc</instance_id>
+        <instance_name>shelldev2</instance_name>
+        <name>sys_wizard_answer_b1a55f09db6da490485854904b961927</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Test Studio Functionality</answer><button_label/><dependent_value/><element/><name>Test Studio Functionality</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">410b9487db130010e2601aaf299619af</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-05 11:02:20</sys_created_on><sys_id>b1a55f09db6da490485854904b961927</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Studio Functionality</sys_name><sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package><sys_policy/><sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope><sys_update_name>sys_wizard_answer_b1a55f09db6da490485854904b961927</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-05 11:02:20</sys_updated_on><table/><target_url>x_rdsp2_test_studi_test_studio_functionality.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1539515169</payload_hash>
+        <record_name>Test Studio Functionality</record_name>
+        <reverted_from/>
+        <source>483144331b0120104418520f6e4bcb91</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-12-19 12:05:57</sys_created_on>
+        <sys_id>5afed74ddbada490485854904b9619eb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1767ae464880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>1afed74d78ada49000ae5d1086d3c8eb</update_guid>
+        <update_guid_history>1afed74d78ada49000ae5d1086d3c8eb:1539515169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:43:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>2e34ea14d5684e82b59060b302289344</sys_id>
+        <sys_metadata>b1a55f09db6da490485854904b961927</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Studio Functionality</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_parent display_value="Task">410b9487db130010e2601aaf299619af</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_scope_delete display_value="">69a5cb27c0844524b67dfffa2b1954e9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_b1a55f09db6da490485854904b961927</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_b1a55f09db6da490485854904b961927">5afed74ddbada490485854904b9619eb</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:43:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

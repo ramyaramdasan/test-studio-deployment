@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Test Afnan</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_rdsp2_test_studi_test_afnan</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">c90b9487db130010e2601aaf299619ad</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:31:51</sys_created_on>
+        <sys_id>bf5c5bc5dbada490485854904b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Afnan</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_update_name>sys_db_object_bf5c5bc5dbada490485854904b961952</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:31:51</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_rdsp2_test_studi.test_afnan_user" name="x_rdsp2_test_studi.test_afnan_user">1ec81e011b21ac509c3397de1d4bcb41</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</application>
+        <file_path/>
+        <instance_id>5668b40bdb18eb041ddcf22ebf9619fc</instance_id>
+        <instance_name>shelldev2</instance_name>
+        <name>sys_db_object_bf5c5bc5dbada490485854904b961952</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Test Afnan</label><live_feed_enabled>false</live_feed_enabled><name>x_rdsp2_test_studi_test_afnan</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">c90b9487db130010e2601aaf299619ad</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-05 11:31:51</sys_created_on><sys_id>bf5c5bc5dbada490485854904b961952</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Afnan</sys_name><sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package><sys_policy/><sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope><sys_update_name>sys_db_object_bf5c5bc5dbada490485854904b961952</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-05 11:31:51</sys_updated_on><update_access>false</update_access><user_role display_value="x_rdsp2_test_studi.test_afnan_user" name="x_rdsp2_test_studi.test_afnan_user">1ec81e011b21ac509c3397de1d4bcb41</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>708161840</payload_hash>
+        <record_name>Test Afnan</record_name>
+        <reverted_from/>
+        <source>fba875c51b21e0903a2beb186e4bcba9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:31:53</sys_created_on>
+        <sys_id>b66c1349dbada490485854904b961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176d25152b90000001</sys_recorded_at>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:31:53</sys_updated_on>
+        <type>Table</type>
+        <update_guid>be6c13495aada4903cc3de5cc536fd28</update_guid>
+        <update_guid_history>be6c13495aada4903cc3de5cc536fd28:708161840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:41:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>1e5efb928fec42c8aecdaa093cc37199</sys_id>
+        <sys_metadata>bf5c5bc5dbada490485854904b961952</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Afnan</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_scope_delete display_value="">69a5cb27c0844524b67dfffa2b1954e9</sys_scope_delete>
+        <sys_update_name>sys_db_object_bf5c5bc5dbada490485854904b961952</sys_update_name>
+        <sys_update_version display_value="sys_db_object_bf5c5bc5dbada490485854904b961952">b66c1349dbada490485854904b961929</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:41:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

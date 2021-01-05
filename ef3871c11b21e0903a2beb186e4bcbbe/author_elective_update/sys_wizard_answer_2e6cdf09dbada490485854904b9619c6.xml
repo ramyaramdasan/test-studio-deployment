@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Test Afnan</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Test Afnan</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">410b9487db130010e2601aaf299619af</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:31:52</sys_created_on>
+        <sys_id>2e6cdf09dbada490485854904b9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Afnan</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_update_name>sys_wizard_answer_2e6cdf09dbada490485854904b9619c6</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:31:52</sys_updated_on>
+        <table/>
+        <target_url>x_rdsp2_test_studi_test_afnan.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</application>
+        <file_path/>
+        <instance_id>5668b40bdb18eb041ddcf22ebf9619fc</instance_id>
+        <instance_name>shelldev2</instance_name>
+        <name>sys_wizard_answer_2e6cdf09dbada490485854904b9619c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Test Afnan</answer><button_label/><dependent_value/><element/><name>Test Afnan</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">410b9487db130010e2601aaf299619af</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-05 11:31:52</sys_created_on><sys_id>2e6cdf09dbada490485854904b9619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Afnan</sys_name><sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package><sys_policy/><sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope><sys_update_name>sys_wizard_answer_2e6cdf09dbada490485854904b9619c6</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-05 11:31:52</sys_updated_on><table/><target_url>x_rdsp2_test_studi_test_afnan.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>325130442</payload_hash>
+        <record_name>Test Afnan</record_name>
+        <reverted_from/>
+        <source>483144331b0120104418520f6e4bcb91</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-12-19 12:05:57</sys_created_on>
+        <sys_id>5cbe9f0ddbada490485854904b961986</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1767ae464880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>1cbe9f0d8fada4902cc283a5d5ed2c86</update_guid>
+        <update_guid_history>1cbe9f0d8fada4902cc283a5d5ed2c86:325130442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-05 11:41:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>5971f84537b54548b0062765e4327410</sys_id>
+        <sys_metadata>2e6cdf09dbada490485854904b9619c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Afnan</sys_name>
+        <sys_package display_value="Test Studio Functionality" source="x_rdsp2_test_studi">ef3871c11b21e0903a2beb186e4bcbbe</sys_package>
+        <sys_parent display_value="Task">410b9487db130010e2601aaf299619af</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Studio Functionality">ef3871c11b21e0903a2beb186e4bcbbe</sys_scope>
+        <sys_scope_delete display_value="">69a5cb27c0844524b67dfffa2b1954e9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_2e6cdf09dbada490485854904b9619c6</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_2e6cdf09dbada490485854904b9619c6">5cbe9f0ddbada490485854904b961986</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-05 11:41:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
