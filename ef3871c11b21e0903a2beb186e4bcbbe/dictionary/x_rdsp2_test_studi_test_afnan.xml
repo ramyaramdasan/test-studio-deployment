@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Test Afnan" max_length="40" name="x_rdsp2_test_studi_test_afnan" type="collection"/>
+</database>
